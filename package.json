@@ -1,0 +1,14 @@
+{
+  "name": "com.test.bs",
+  "version": "1.0.0",
+  "description": "Battleship",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "app"
+  },
+  "author": "Tajinder",
+  "license": "ISC",
+  "bin": {
+    "battleship": "./bin/index.js"
+  }
+}
